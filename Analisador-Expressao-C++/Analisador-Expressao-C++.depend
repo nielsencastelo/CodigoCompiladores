@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490054744 source:d:\unp\disciplinas\compiladores\códigos\analisador-expressao-c++\analisador.cpp
+	"Analisador.hpp"
+
+1490054902 d:\unp\disciplinas\compiladores\códigos\analisador-expressao-c++\analisador.hpp
+	<iostream>
+	<string>
+
+1490054768 source:d:\unp\disciplinas\compiladores\códigos\analisador-expressao-c++\main.cpp
+	"Analisador.hpp"
+

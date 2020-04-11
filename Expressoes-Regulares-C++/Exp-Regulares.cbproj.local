@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/17 12:57:06.000.379,=C:\Users\Nielsen\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/04/17 12:57:06.000.326,=C:\Users\Nielsen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/04/17 12:57:54.000.419,C:\Users\Nielsen\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\UnP\Disciplinas\Compiladores\Códigos\Expressoes-Regulares-C++\Main.cpp</Transaction>
+    <Transaction>2017/04/17 12:57:54.000.419,C:\Users\Nielsen\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\UnP\Disciplinas\Compiladores\Códigos\Expressoes-Regulares-C++\Main.h</Transaction>
+    <Transaction>2017/04/17 12:57:54.000.419,C:\Users\Nielsen\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\UnP\Disciplinas\Compiladores\Códigos\Expressoes-Regulares-C++\Main.dfm</Transaction>
+    <Transaction>2017/04/17 12:58:08.000.975,C:\Users\Nielsen\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\UnP\Disciplinas\Compiladores\Códigos\Expressoes-Regulares-C++\Expressao-Regulares.h</Transaction>
+    <Transaction>2017/04/17 12:58:20.000.634,C:\Users\Nielsen\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\UnP\Disciplinas\Compiladores\Códigos\Expressoes-Regulares-C++\Exp-Regulares.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

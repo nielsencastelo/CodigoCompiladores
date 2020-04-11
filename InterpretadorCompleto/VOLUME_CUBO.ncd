@@ -1,0 +1,8 @@
+PRINT "Este programa calcula o volume do cubo." 
+INPUT "Entre com o comprimento do primeiro lado ", l 
+INPUT "Enter com o comprimento do segundo lado ", w 
+INPUT "Entre com o comprimento do terceiro lado ", d 
+t = l * w * d 
+PRINT "O volume he: ", t
+
+INPUT "System Pause", l 

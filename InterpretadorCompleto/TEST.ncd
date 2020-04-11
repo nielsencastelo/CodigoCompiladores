@@ -1,0 +1,11 @@
+PRINT "Este programa converte galoes em litros." 
+ 
+100 GOSUB 200 
+  INPUT "Novamente? (1 or 0): ", x 
+  IF x = 1 THEN GOTO 100 
+  END 
+ 
+200 INPUT "Entre com os galoes: ", g 
+  l = g * 3.7854 
+  PRINT g; "galao sao"; l; "em litros." 
+  RETURN
